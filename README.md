@@ -1,2 +1,0 @@
-# Midterm
-Employee Management System
